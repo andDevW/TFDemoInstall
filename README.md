@@ -5,8 +5,7 @@
 
 <a href="https://ci.tensorflow.org/view/Nightly/job/nightly-android/lastSuccessfulBuild/artifact/out/tensorflow_demo.apk" target="_blank"><img src="https://www.tensorflow.org/images/tf_logo_transp.png"></a>
 
-
-# For more about the Demo app: [https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android)
+* For more information about the TensorFlow Android Camera Demo app: [https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android)
 
 ## For more information
 
