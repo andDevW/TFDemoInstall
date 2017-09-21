@@ -1,7 +1,7 @@
 # TFDemoInstall
 # (TensorFlow Android Camera Demo Installer)
 
-# This page installs/updates the latest build of [tensorflow_demo.apk](https://ci.tensorflow.org/view/Nightly/job/nightly-android/lastSuccessfulBuild/artifact/out/tensorflow_demo.apk) for Android 5.0 (API 21) or higher.
+# This link below installs/updates the latest build of [tensorflow_demo.apk](https://ci.tensorflow.org/view/Nightly/job/nightly-android/lastSuccessfulBuild/artifact/out/tensorflow_demo.apk) for Android 5.0 (API 21) or higher.
 
 <a href="https://ci.tensorflow.org/view/Nightly/job/nightly-android/lastSuccessfulBuild/artifact/out/tensorflow_demo.apk" target="_blank"><img src="https://www.tensorflow.org/images/tf_logo_transp.png"></a>
 
